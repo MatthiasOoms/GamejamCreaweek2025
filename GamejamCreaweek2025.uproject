@@ -6,14 +6,10 @@
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
-			"Enabled": false,
+			"Enabled": true,
 			"TargetAllowList": [
 				"Editor"
 			]
-		},
-		{
-			"Name": "HoudiniEngine",
-			"Enabled": true
 		}
 	]
 }
